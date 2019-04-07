@@ -1,0 +1,17 @@
+/* pages/content/content.wxss */
+.content{
+  padding:0 0 0 20px;
+  background:#ddd;
+  border:2px solid #f00;
+  
+}
+.content >.view{
+    line-height:30px;
+  }
+  input{
+    padding:0 0 0 5px;
+    width:80%;
+    height:30px;
+    border:1px solid #f00;
+    border-radius:5px;
+  }

@@ -1,0 +1,10 @@
+{
+    "usingComponents": {},
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0049ff",
+    "navigationBarTitleText": "内容页",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#ddd",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true
+}
